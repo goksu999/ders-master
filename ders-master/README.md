@@ -19,6 +19,7 @@
 ---
 - Maven
 - Docker
+- PostgreSql
 
 ### Run & Build
 
